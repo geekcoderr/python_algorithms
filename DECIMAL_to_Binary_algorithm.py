@@ -1,3 +1,4 @@
+#DEVELOPER OF THIS ALGORITHM IS :: Nishant Maheshwari#
 #This program will convert all positive integers to binary and,#
 #its automation algorithm will put developer defined message on,#
 #screen if algorithm is not capable to handle the input.#
