@@ -9,7 +9,7 @@ for i in range(0,leng):
     tke[i]=int(tke[i])
     sumof+=tke[i]**leng
 #Print answer to user if number is armstrong or not.. >>
-if sumof==temp:
+if sumof==int(temp):
     print("YES ! (",temp,") is an Armstrong Number !")
 else:
     print("NO ! (",temp,") is not an Armstrong Number !")
